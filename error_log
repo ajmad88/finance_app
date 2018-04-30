@@ -1,0 +1,10 @@
+[27-Apr-2018 20:02:03 UTC] PHP Notice:  Use of undefined constant session_start - assumed 'session_start' in /home/madandj88/public_html/finance_app/index.php on line 3
+[27-Apr-2018 20:02:07 UTC] PHP Notice:  Use of undefined constant session_start - assumed 'session_start' in /home/madandj88/public_html/finance_app/index.php on line 3
+[27-Apr-2018 20:03:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/madandj88/public_html/finance_app/index.php on line 21
+[27-Apr-2018 20:03:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/madandj88/public_html/finance_app/index.php on line 21
+[27-Apr-2018 20:03:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/madandj88/public_html/finance_app/index.php on line 21
+[27-Apr-2018 20:03:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/madandj88/public_html/finance_app/index.php on line 21
+[27-Apr-2018 20:03:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/madandj88/public_html/finance_app/index.php on line 21
+[27-Apr-2018 20:05:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/madandj88/public_html/finance_app/CRUD.php on line 18
+[27-Apr-2018 20:56:33 UTC] PHP Notice:  Undefined index: uname in /home/madandj88/public_html/finance_app/register.php on line 10
+[27-Apr-2018 20:57:41 UTC] PHP Notice:  Undefined index: uname in /home/madandj88/public_html/finance_app/register.php on line 10
